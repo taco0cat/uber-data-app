@@ -5,7 +5,7 @@ A simple interactive dashboard visualizing Uber pickup data in New York City.
 I built this project to learn the basics of **Streamlit** and how to handle data visualization in Python. It processes a dataset of Uber pickups to show how caching, filtering, and 3D mapping work in a real-time web app.
 
 ## 🚀 Live Demo
-[**View the Live App Here**](https://your-app-url.streamlit.app)
+[**View the Live App Here**](https://uber-nyc-demo.streamlit.app/)
 
 ## 🔍 What I Learned
 Through this project, I explored:
